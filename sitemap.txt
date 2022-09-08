@@ -1,4 +1,4 @@
-http://example.com/2022/09/02/hello-world/
-http://example.com/tags/index.html
-http://example.com/categories/index.html
-http://example.com/
+http://lethephyr.github.io/2022/09/02/hello-world/
+http://lethephyr.github.io/tags/index.html
+http://lethephyr.github.io/categories/index.html
+http://lethephyr.github.io/

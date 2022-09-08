@@ -3,11 +3,11 @@
   <title>Ethereal</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://lethephyr.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://lethephyr.github.io/"/>
   <updated>2022-09-08T15:45:52.947Z</updated>
-  <id>http://example.com/</id>
+  <id>http://lethephyr.github.io/</id>
   
   <author>
     <name>Ethereal</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/09/02/hello-world/"/>
-    <id>http://example.com/2022/09/02/hello-world/</id>
+    <link href="http://lethephyr.github.io/2022/09/02/hello-world/"/>
+    <id>http://lethephyr.github.io/2022/09/02/hello-world/</id>
     <published>2022-09-02T15:07:42.196Z</published>
     <updated>2022-09-08T15:45:52.947Z</updated>
     
